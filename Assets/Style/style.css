@@ -1,0 +1,238 @@
+header{
+    display: block;
+    box-sizing: border-box;
+    height: 500px;
+    background: linear-gradient(#493ed8 0%, #562b95 100%);
+    clip-path: ellipse(75% 100% at 51.59% -3%);
+}
+
+.btn{
+    color: white;
+    border: 1px solid white ;
+    border-radius: 28px;
+    padding: 10px 20px;
+    font-size: 10px;
+}
+.btn:hover{
+    color: #493ed8;
+    background-color: white;
+    border: 1px solid white ;
+
+}
+.d-flex{
+    flex-direction: column;
+    align-items: center;
+}
+.ntf-txt{
+    padding: 5px 20px;
+    background-image: linear-gradient(#562b95, #493ed8);
+    color: white;
+}
+.navbar-light .navbar-brand {
+    color:#fff;
+}
+.navbar-light .navbar-brand:hover{
+    color: white;
+}
+.header-text{
+    text-align: center;
+    color: white;
+    margin: 7%;
+}
+    .header-text p{
+        width: 40%;
+        margin: auto;
+    }
+    .main{
+        background-image: linear-gradient(to right, #562b95, #493ed8);
+        width: 70%;
+        height: fit-content;
+        margin-top: -10%;
+        opacity: 0.99;
+        border-radius: 28px;
+        padding: 46px;
+
+    }
+    .pay-price h1{
+        color: white;
+        font-size: 32px;
+    }
+    .pay-price span, .pay-price p{
+        color: #bebdbd;
+        margin-bottom: 5px;
+    }
+    .pay-price .pay span{
+        font-size: 33px;
+    }
+    .pay-price .price input{
+        background-color: transparent;
+        border: 1px solid #fff;
+        border-radius: 4px;
+         color: white;
+    }
+    .pay-price .price strong{
+        color: white;
+        font-size: 24px;
+    }
+.all-price-offers{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 20px auto;
+    width: 70%;
+}
+
+
+
+.list-prices{
+    background-image: linear-gradient(to top, #562b95, #493ed8);
+    border-radius: 16px;
+    margin: 10px 20px;
+
+}   
+.no-save-1{
+    height: 500px;
+} 
+.internal{
+    padding: 20px;
+}
+.internal p{
+    color: white;
+    text-align: left;
+
+}
+.internal .btn{
+    padding: 11px 50px;
+}
+.artwork-with-check{
+    margin-bottom: 80px;
+
+}
+.artwork-with-check p{
+    margin-left: 30px;
+    padding: 6px 0px;
+}
+.save h1{
+    color: white;
+    background-color: red;
+    border-radius: 16px 16px 0px 0px;
+}
+.pr{
+    display: flex;
+    justify-content: space-between;
+}
+.lable{
+    display: flex;
+    justify-content: space-between;
+}
+.pr strong{
+    color: white;
+    font-size: 24px;
+}
+.lable strong{
+    border-bottom: 2px solid white;
+    font-weight: bold;
+}
+.lable span{
+    color: white;
+}
+.list-prices{
+    text-align: center;
+}
+.list-prices span{
+    color: white;
+}
+.artwork-with-check p, .artwork-with-check .fa-check{
+    color: white;
+}
+
+.no-save-1{
+    height: 458px;
+    margin-top: 56px;
+    background: #ebeafa;
+
+}
+.no-save-1 p, .no-save-1 span, .no-save-1 .fa-check, .no-save-1 h1, .no-save-1 strong{
+    color: #562b96;
+}
+.no-save-1 .btn{
+    border: 1px solid #562b95;
+    color: #562b95;
+}
+.no-save-1 .btn:hover{
+    border: 1px solid #562b95;
+    background-color: #562b95;
+    color: #fff;
+}
+.fa-check{
+    padding-right: 20px;
+}
+.no-save-2{
+    background-color: #562b96;
+    background-image: none;
+    height: 458px;
+    margin-top: 56px;
+    
+}
+
+.costumer{
+    margin: 0px;
+    background: #ebeafa;
+    max-width: 100%;
+    padding: 30px;
+    color: #543b80;
+    font-weight: bold;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
+.costumer .btn-1{
+    background-image: linear-gradient(to right, #562b95, #493ed8);
+    color: #fff!important;
+    margin: 15px;
+
+}
+.costumer .btn-1:hover{
+    background-image: none;
+    background-color: #fff;
+    color: #562b96;
+}
+.costumer .btn{
+    border: 1px solid #562b95;
+    color: #562b95;
+    margin: 15px;
+
+}
+.costumer .btn:hover{
+    color: #fff;
+    background-color: #562b95;
+    margin: 15px;
+
+}
+.buttons{
+    text-align: right;
+}
+.faq-section{
+margin: 80px auto;
+}
+
+.faq-section h1{
+    text-align: center;
+    color: #543b80;
+}
+.faq-section select{
+    margin: 20px 10px;
+    padding: 10px;
+    box-shadow: 2px 3px 5px 0px rgb(0 0 0 / 75%);
+}
+
+.page-footer {
+    background: linear-gradient(to top, #562b95, #493ed8);
+    color: #fff;
+    padding: 51px;
+
+}
+.col-md-3 ul li a {
+    text-decoration: none;
+    color: #fff;
+}
+
